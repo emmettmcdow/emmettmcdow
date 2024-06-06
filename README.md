@@ -1,15 +1,11 @@
-# Welcome to Emmett
+## Welcome to Emmett
 Glad you're here!
 
-I like building stuff. I used to specialize in systems programming, but now I'm just obsessed with products. I don't care how it's built, I just want to build stuff people want to use. If that means if I have to use:
+I like building stuff. I used to specialize in systems programming, but now I'm just obsessed with products. I don't care how it's built, I just want to build stuff people want to use. If that means if I have to build using:
 - 🐹 Go
-- 🐍 Python
-- 👵🏻 C
-- 🐧 Linux
-- 📝 Pencils and Paper
 - 👨🏻‍💻 Jekyll (the blogging framework)
-- 🗣 My vocal cords (one of my favorites)
-- 👂🏻 My ears (working on this one)
+- 🔧 A wrench
+
 ... then so be it!
 
 Feel free to email me about anything.
