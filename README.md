@@ -3,7 +3,7 @@ Glad you're here!
 
 I like building stuff. I used to specialize in systems programming, but now I'm just obsessed with products. I don't care how it's built, I just want to build stuff people want to use. If that means if I have to build using:
 - 🐹 Go
-- 👨🏻‍💻 Jekyll (the blogging framework)
+- 👨🏻‍💻 Nikola (the blogging framework)
 - 🔧 A wrench
 
 ... then so be it!
