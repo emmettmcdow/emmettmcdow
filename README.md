@@ -1,14 +1,7 @@
 ## Welcome to Emmett
-Glad you're here!
+> “We must not confuse dissent with disloyalty. We must remember always that accusation is not proof and that conviction depends upon evidence and due process of law. We will not walk in fear, one of another. We will not be driven by fear into an age of unreason, if we dig deep in our history and our doctrine, and remember that **_we are not descended from fearful men_** – not from men who feared to write, to speak, to associate, and to defend causes that were, for the moment, unpopular” 
 
-I like building stuff. I used to specialize in systems programming, but now I'm just obsessed with products. I don't care how it's built, I just want to build stuff people want to use. If that means if I have to build using:
-- 🐹 Go
-- 👨🏻‍💻 Nikola (the blogging framework)
-- 🔧 A wrench
-
-... then so be it!
-
-Feel free to email me about anything.
+― Edward R. Murrow
 
 <!--
 **emmettmcdow/emmettmcdow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
